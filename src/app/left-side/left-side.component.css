@@ -1,0 +1,116 @@
+*{
+ font-size: 15px;   
+ letter-spacing: 1.2;
+
+}
+.left-side{
+    display: flex;
+    flex-flow: column nowrap;
+    width: 200px;
+    padding: 20px;
+    /* border: solid black; */
+    
+}
+.text{
+    font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+}
+.color{
+    color: rgb(71, 144, 153);
+}
+.skill > span{
+    font-size: 20px;
+    color: rgb(71, 144, 153);
+    font-weight: bold;
+
+}
+.underline{
+    border: 1px solid  rgb(71, 144, 153);
+}
+.languages{
+    background-color:  rgb(71, 144, 153);
+    color: white;
+    text-align: left;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.languages>p{
+    margin-left: 10px;
+}
+.database{
+    background-color:  rgb(71, 144, 153);
+    color: white;
+    text-align: left;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.database>p{
+    margin-left: 10px;
+
+}
+.os{
+    background-color:  rgb(71, 144, 153);
+    color: white;
+    text-align: left;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.os>p{
+    margin-left: 10px;
+
+}
+.p-languages{
+    background-color:  rgb(71, 144, 153);
+    color: white;
+    text-align: left;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.p-languages>p{
+    margin-left: 10px;
+
+}
+.angular{
+    background-color:  rgb(71, 144, 153);
+    color: white;
+    text-align: left;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.angular>p{
+    margin-left: 10px;
+
+}
+.communication{
+    background-color:  rgb(71, 144, 153);
+    color: white;
+    text-align: left;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.communication>p{
+    margin-left: 10px;
+
+}
+.lang{
+    margin-top: 20px;
+}
+.lang>span{
+    font-size: 20px;
+    color: rgb(71, 144, 153);
+    font-weight: bold;
+
+}
+.english{
+    color: rgb(71, 144, 153);
+
+}
+.web{
+    margin-top: 10px;
+    
+}
+.web>p{
+    border:1px solid gray;
+    border-radius: 10px;
+    padding: 10px;
+    font-weight: 550;
+}
